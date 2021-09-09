@@ -1,4 +1,4 @@
-# VAEs
+# Graph based manifold learning for dynamic inverse problems 
 
 This aims to reconstruct a video sequance images through Variational autoencoder models(VAEs) and investigate the instric meaning of latent variables. Based on the realization of the first two objectives, the trajectory of object motion can be presented in low-dimensional latent space. In this process, the frames of moving objects are simulated through the image transform. Through the combination of the primary motion of multiple objects, we could develop a high-level understanding of moving trajectory and latent space.
 ---
